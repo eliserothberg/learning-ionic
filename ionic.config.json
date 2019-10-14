@@ -1,6 +1,8 @@
 {
   "name": "learning-ionic",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular",
   "id": "68cad185"
 }
